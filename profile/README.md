@@ -12,7 +12,6 @@ We are bridging the gap between complex DeFi mechanics and everyday usability.
 ---
 
 </div>
-
 ## 🧬 Who We Are
 
 Asagi is more than just a protocol; it is a community-driven ecosystem. We believe that **every decision matters**. Through our custom DAO platform, we give voting power back to the users, ensuring the ecosystem evolves exactly how the community envisions it.
@@ -32,16 +31,15 @@ Uzu is our flagship product designed to make DeFi accessible to everyone. We str
 
 ## 🔮 Future Roadmap (2027)
 
-### ⚡ Asagi Sou
-*The ultimate high-performance DEX.*
+### ☁️ Asagi Kiri
+*The ultimate cross-chain liquidity hub.*
 
-Planned for 2027, Sou will leverage the incredible speed of **Sui** and **DeepBook** standards to become a comprehensive liquidity hub.
+Planned for 2027, Kiri will leverage the incredible speed of **Sui** and **DeepBook** standards while unifying liquidity across chains.
 
-* **Trading:** Spot, Swaps, and Liquidity Pools.
-* **Derivatives:** High-speed Perps trading.
-* **Money Market:** Lending and Borrowing protocols.
-* **Ecosystem:** Community token launches and LP Farms.
-* **Connectivity:** Native integration with Uzu Strategies and major bridges (Portal, Mayan, Sui Bridge).
+* **Truly Cross-Chain:** A seamless trading experience supporting both **Sui and Solana** assets without barriers.
+* **Core Trading:** Spot, Swaps, and Liquidity Pools across ecosystems.
+* **Advanced Markets:** High-speed Perps trading, Lending, and Borrowing.
+* **Connectivity:** Native integration with Uzu Strategies and major bridges (Portal, Mayan, Sui Bridge) to unify liquidity.
 
 ---
 
